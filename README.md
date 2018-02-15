@@ -5,8 +5,6 @@ TODO: Write a project description
 [![npm](https://img.shields.io/npm/v/raw-repo.svg)](https://www.npmjs.com/package/raw-repo)
 [![Travis](https://img.shields.io/travis/gabrielgodoy/raw-repo.svg)]()
 
-<br />
-
 ## Index
 
 * [Requirements](#point_up-requirements)
