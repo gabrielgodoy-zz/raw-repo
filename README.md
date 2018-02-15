@@ -69,7 +69,7 @@ List of good practices related to the project
 ### Rules
 - Names of branches that resolve an issue should be named `fix/#ISSUE_ID` or `feature/#ISSUE_ID`
 
-The use of [semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) is encouraged. Example: `docs: better readme`
+- The use of [semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) is encouraged. Example: `docs: better readme`
 
 - Use [keywords to automatically close issues](https://help.github.com/articles/closing-issues-using-keywords/) when code is merged. Example: `closes #123`
 
