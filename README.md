@@ -5,10 +5,6 @@ TODO: Write a project description
 [![npm](https://img.shields.io/npm/v/raw-repo.svg)](https://www.npmjs.com/package/raw-repo)
 [![Travis](https://img.shields.io/travis/gabrielgodoy/raw-repo.svg)]()
 
-# TITLE
-
-Main description
-
 <br />
 
 ## Index
@@ -16,7 +12,7 @@ Main description
 * [Requirements](#point_up-requirements)
 * [Commands](#computer-commands)
 * [Milestones](#chart_with_upwards_trend-milestones)
-* [Principais tecnologias](#rocket-main-technologies)
+* [Main technologies](#rocket-main-technologies)
 * [Tools and libraries](#satellite-tools-and-libraries)
 * [Good practices](#bowtie-good-practices)
 * [Documentation](#green_book-documentation)
